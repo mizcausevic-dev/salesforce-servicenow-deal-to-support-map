@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mizcausevic-dev.github.io/salesforce-servicenow-deal-to-support-map/sitemap.xml
